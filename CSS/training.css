@@ -1,0 +1,16 @@
+#date-course{
+    opacity: 0.6;
+}
+
+b{
+    font-size: larger;
+}
+
+.courses{
+    margin: 5%;
+}
+
+#link{
+    display: flex;
+    justify-content: center;
+}
