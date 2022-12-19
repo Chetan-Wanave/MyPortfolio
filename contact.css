@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    margin-top: 5%;
+    font-family: serif;
+    font-size: xx-large;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nameinfo{
+    margin: 1%;
+    display: flex;
+    justify-content: center;
+}
+
+.name{
+    padding: 10px;
+}
+
+#i1{
+    width: 300px;
+    height: 50px;
+}
+
+.email{
+    width: 618px;
+    margin-top: 2%;
+}
+
+.a1{
+    width: 618px;
+    height: 50px;
+}
+
+.button{
+    margin: 5%;
+}
+
+#submit{
+    width: 200px;
+    height: 40px;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    background-color: rgb(12, 139, 218);
+    border-radius: 10px;
+    border: none;
+}
