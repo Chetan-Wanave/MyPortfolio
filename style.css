@@ -44,7 +44,7 @@ nav ul li a{
 }
 
 a.active,a:hover{
-    background-color: rgb(68, 68, 159);
+    background-color: rgb(14, 110, 227);
     transition: 0.5s;
 }
 
@@ -170,6 +170,7 @@ footer{
     background-color: #0082e6;
     height: 150px;
     width: 100%;
+    bottom: 0;
 }
 
 .footer-header{
